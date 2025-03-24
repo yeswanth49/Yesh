@@ -1,0 +1,17 @@
+body{
+    margin-top: 20%;
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-bottom: 20%;
+    font-family: monospace;
+    font-size: 1.1rem;
+    background-color: #1B263B;
+    color: #E0E1DD;
+}
+ul{
+    line-height: 2rem;
+}
+
+a:link, a:visited{
+    color: white;
+}
