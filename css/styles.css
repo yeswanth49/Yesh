@@ -5,8 +5,8 @@ body{
     margin-bottom: 20%;
     font-family: monospace;
     font-size: 1.1rem;
-    background-color: #1B263B;
-    color: #E0E1DD;
+    background-color: #000;
+    color: #fff;
 }
 ul{
     line-height: 2rem;
